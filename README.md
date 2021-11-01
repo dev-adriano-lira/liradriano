@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Me chamo Adriano Lira e estou cursando o 4º período de Ciências da Computação na Universidade Federal de Campina Grande (UFCG). Atualmente estou atuando como desenvolvedor e assessor na empresa CodeX Jr. 
+### Me chamo Adriano Lira e estou cursando o 4º período de Ciências da Computação na Universidade Federal de Campina Grande (UFCG). Atualmente estou atuando como desenvolvedor e assessor de Geste e Gestão na empresa CodeX Jr. 
 ### Tenho enorme carinho por Front-end, então recentemente comecei a estudar HTML CSS e JavaScript. Além disso, para melhorar minha base em Lógica de Programação, venho estudando e fazendo questões de maratonas de programação em C++.
 <div align="center">
   <a href="https://github.com/liradriano">
